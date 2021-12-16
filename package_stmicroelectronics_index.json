@@ -4,7 +4,7 @@
       "name": "STMicroelectronics",
       "websiteURL": "https://github.com/stm32duino",
       "maintainer": "STMicroelectronics",
-      "email": "stmduino@st.com",
+      "email": "",
       "help": {
         "online": "http://www.stm32duino.com/"
       },
